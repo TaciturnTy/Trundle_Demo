@@ -17,7 +17,7 @@ year's end.
 
 --- Instructions ---
 
-Download the Trundle (Demo Version)_Data folder and the Trundle (Demo Version).exe file into the some directory. 
+Download the Trundle (Demo Version)_Data folder and the Trundle (Demo Version).exe file into the same directory. 
 
 Run the .exe file and choose desired settings.
 
