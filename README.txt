@@ -11,9 +11,7 @@ completed game is expected to contain around 15 levels.
 
 Originally the game started as a college project but I have decided to complete and polish the game.
 
-The completed game is expected to be uploaded to Steam either for free or for the price of $0.99 before the
-year's end.
-
+The completed game is expected to be uploaded to Steam either for free or for the price of $0.99 in May of 2017.
 
 --- Instructions ---
 
